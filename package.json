@@ -1,0 +1,22 @@
+{
+  "name": "dicoding",
+  "version": "1.0.0",
+  "description": "belajar node js dicoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendroprwk08/nodejs-aws-dicoding.git"
+  },
+  "author": "hendro purwoko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendroprwk08/nodejs-aws-dicoding/issues"
+  },
+  "homepage": "https://github.com/hendroprwk08/nodejs-aws-dicoding#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
